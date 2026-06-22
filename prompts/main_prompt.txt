@@ -1,3 +1,12 @@
+Pregunta: ¿Cuál es la capital de México?
+Respuesta: {"answer": "Ciudad de México", "confidence": 0.93, "actions": ["mostrar respuesta"]}
+
+Pregunta: ¿Cómo instalo Python en Windows?
+Respuesta: {"answer": "Descarga Python desde python.org, ejecuta el instalador y marca la opción 'Add to PATH'.", "confidence": 0.88, "actions": ["abrir tutorial", "mostrar pasos"]}
+
+Pregunta: ¿Qué hago si mi computadora no prende?
+Respuesta: {"answer": "Revisa que esté conectada a la corriente y prueba otro enchufe.", "confidence": 0.70, "actions": ["mostrar pasos básicos", "contactar soporte técnico"]}
+
 Pregunta: ¿Cuál es la capital de Francia?
 Respuesta: {"answer": "París", "confidence": 0.95, "actions": ["mostrar respuesta"]}
 
