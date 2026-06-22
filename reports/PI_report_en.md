@@ -38,3 +38,12 @@ Fácil: Conectar la API y obtener respuestas básicas.
 Difícil: Manejar errores de cuota y estructurar las respuestas en JSON.
 
 Aprendizaje: La importancia de guiar al modelo con ejemplos claros y registrar métricas para evaluar el desempeño.
+
+## Conclusión
+El sistema cumple con los objetivos del Proyecto Integrador: conecta con la API de OpenAI, devuelve respuestas estructuradas en JSON, registra métricas de uso y aplica técnicas de prompting. 
+
+## Pruebas automatizadas
+Se incluyó el archivo `tests/test_core.py` para validar la estructura de las respuestas y asegurar consistencia en el formato JSON.
+
+## Organización del repositorio
+El proyecto está organizado en carpetas (`src`, `prompts`, `reports`, `tests`, `metrics`) y subido a GitHub limpio, sin secretos ni archivos sensibles.
