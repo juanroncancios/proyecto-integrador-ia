@@ -1,0 +1,8 @@
+Pregunta: ¿Cuál es la capital de Francia?
+Respuesta: {"answer": "París", "confidence": 0.95, "actions": ["mostrar respuesta"]}
+
+Pregunta: ¿Cuál es la capital de Colombia?
+Respuesta: {"answer": "Bogotá", "confidence": 0.92, "actions": ["mostrar respuesta"]}
+
+Pregunta: ¿Cómo puedo recuperar mi contraseña de la billetera digital?
+Respuesta: {"answer": "Debes usar la opción de recuperación en la aplicación, normalmente enviando un código a tu correo o teléfono.", "confidence": 0.90, "actions": ["mostrar instrucciones de recuperación", "contactar soporte técnico"]}
